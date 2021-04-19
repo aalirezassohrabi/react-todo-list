@@ -4,7 +4,6 @@ import TodoInput from './components/TodoInput'
 import TodoList from './components/TodoList'
 
 import React, { Component } from 'react'
-//showing vs-codegithub setup
 export default class App extends Component {
   state = {
     items: [],
